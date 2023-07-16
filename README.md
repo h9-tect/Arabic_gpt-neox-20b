@@ -11,8 +11,9 @@ To run this code, please ensure that the following packages are installed:
 - transformers
 - peft
 - datasets
-
-
+- 
+## Dataset
+I've created this dataset scraped a Qoutes for the Arabic language [LINK](https://huggingface.co/datasets/Hesham2/arabic-quotes)
 ## Description
 
 The code performs the following steps:
